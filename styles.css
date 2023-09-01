@@ -122,3 +122,21 @@
     padding: 20px;
     text-align: center;
   }
+
+  .active-tab{
+    background-color: #333333;
+    color: white;
+  }
+
+  :disabled{
+    background-color: #c0bebe;
+    color: white;
+  }
+
+  .heart-red {
+    color: red;
+  }
+  
+  .hidden {
+    display: none;
+  }
